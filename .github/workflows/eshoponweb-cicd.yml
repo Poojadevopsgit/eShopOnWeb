@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 542a687c-050d-448a-ba59-0ddea56a468d
-  WEBAPP-NAME: eshoponweb-pooja
+  WEBAPP-NAME: eshoponweb-webapp-pooja
 
 
 jobs:
